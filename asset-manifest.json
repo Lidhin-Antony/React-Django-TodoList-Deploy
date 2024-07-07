@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Django_TodoList/static/css/main.26cbac9b.css",
+    "main.css": "/React-Django_TodoList/static/css/main.4858fa02.css",
     "main.js": "/React-Django_TodoList/static/js/main.6d138922.js",
     "index.html": "/React-Django_TodoList/index.html",
-    "main.26cbac9b.css.map": "/React-Django_TodoList/static/css/main.26cbac9b.css.map",
+    "main.4858fa02.css.map": "/React-Django_TodoList/static/css/main.4858fa02.css.map",
     "main.6d138922.js.map": "/React-Django_TodoList/static/js/main.6d138922.js.map"
   },
   "entrypoints": [
-    "static/css/main.26cbac9b.css",
+    "static/css/main.4858fa02.css",
     "static/js/main.6d138922.js"
   ]
 }
